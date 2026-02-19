@@ -118,3 +118,5 @@ Additionally, I improved my skills in:
 - Finite State Machine (FSM) design
 - Simulation and debugging using ModelSim
 - Verifying functionality through waveform analysis
+
+Next time, I will have better documentation of the hardware implementation on the Cyclone-II EP2C35F672C6 FPGA board and improve file organization.
